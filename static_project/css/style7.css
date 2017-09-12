@@ -1,0 +1,75 @@
+.banner{
+   background-image: url(../img/car.png);
+   height: 250px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+
+.container_12{
+	background-color:white;
+}
+
+header{
+	
+	margin-bottom: 1px !important;
+	background-color:#a2f0ba;
+	position: relative;
+	
+}
+header img{
+	margin-top: 8px;
+}
+header nav{
+	margin-top: 40px;
+}
+
+nav li{
+	display: inline;
+	padding: 20px; 	
+}
+
+body,html{
+	max-height: 100%;
+	min-height: 700px;
+}
+section h2{
+	margin: 30px auto ;
+	border-bottom: 4px solid #d1d1d1 !important;
+	text-align: center;
+}
+.column.grid_4{
+	background-color: white;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+	font-weight: bold;
+	border-top: 1px solid #d1d1d1 !important;
+	padding-top: 18px !important;
+	background-color:#a2f0ba;
+	
+}
+ul a{
+	text-decoration:none;
+}
+ul a:hover{
+	text-decoration: underline;
+}
+
+
+.menu li {
+	list-style: none;
+	margin-left: 0px;
+	margin-bottom: 10px;
+}
+
+.menu h3, .menu h4{
+	
+	margin: 20px 0px;
+}
+h3{
+	text-align: center;
+}
